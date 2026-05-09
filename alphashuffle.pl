@@ -21,4 +21,3 @@ sub shuffle {
     }
     return @array;
 }
-
