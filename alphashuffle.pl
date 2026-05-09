@@ -8,6 +8,9 @@ my @alphabet = 'A'..'Z';
 # Shuffle the alphabet randomly
 my @shuffled_alphabet = shuffle(@alphabet);
 
+# Print the alphabet
+print "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n";
+
 # Print the shuffled alphabet
 print join(' ', @shuffled_alphabet), "\n";
 
